@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-03T19:28:15Z",
+    "updatedAt":  "2026-11-03T20:06:34Z",
     "site":  [
                  {
                      "ciclo":  "202615",
@@ -1568,6 +1568,22 @@
                                        "type":  "B",
                                        "desc":  "TODODIA FRAMBOESA SAB EM BARRA 5X90G",
                                        "cod":  "2831"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202616",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "RDC - FACES BATOM DUO",
+                                       "cod":  "288327"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Faces (Mascara + Labial)",
+                                       "cod":  "268776"
                                    }
                                ]
                  }
