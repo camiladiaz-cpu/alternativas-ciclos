@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-03T20:12:35Z",
+    "updatedAt":  "2026-11-03T20:44:41Z",
     "site":  [
                  {
                      "ciclo":  "202615",
@@ -1584,6 +1584,27 @@
                                        "type":  "B",
                                        "desc":  "Kit Faces (Mascara + Labial)",
                                        "cod":  "268776"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202616",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "CORTADORA SPORT",
+                                       "cod":  "208818"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "CEPILLO ELECTRO 4 EN 1",
+                                       "cod":  "217022"
+                                   },
+                                   {
+                                       "type":  "C",
+                                       "desc":  "SECADOR MISTRAL 3D BLUE TITANIO",
+                                       "cod":  "208825"
                                    }
                                ]
                  }
