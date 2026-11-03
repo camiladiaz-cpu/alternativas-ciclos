@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-03T15:49:08Z",
+    "updatedAt":  "2026-11-03T19:28:15Z",
     "site":  [
                  {
                      "ciclo":  "202615",
@@ -1552,6 +1552,22 @@
                                        "type":  "B",
                                        "desc":  "RELOJ DIGITAL CORAZONES Y PUNTOS",
                                        "cod":  "208822"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202616",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "TODODIA SAB BARRA MANGA P 5X90G",
+                                       "cod":  "90965"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "TODODIA FRAMBOESA SAB EM BARRA 5X90G",
+                                       "cod":  "2831"
                                    }
                                ]
                  }
