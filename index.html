@@ -112,11 +112,11 @@
             <h2 class="text-xl font-bold text-text-main mb-0.5 tracking-tight">¡Hola!</h2>
             <p class="text-text-sec text-[11px] mb-4 leading-relaxed">¿En qué ciclo comercial te encontrás?</p>
             <div class="grid grid-cols-2 gap-2">
-                <button type="button" onclick="selectInitialCiclo('C15')" class="py-2.5 bg-gray-800 hover:bg-gray-900 text-white font-bold rounded-lg transition-all shadow-sm active:scale-95 cursor-pointer text-[11px] uppercase tracking-wider">
-                    Ciclo 15
-                </button>
-                <button type="button" onclick="selectInitialCiclo('C16')" class="py-2.5 bg-brand-orange hover:bg-brand-orangeHover text-white font-bold rounded-lg transition-all shadow-sm active:scale-95 cursor-pointer text-[11px] uppercase tracking-wider">
+                <button type="button" onclick="selectInitialCiclo('C16')" class="py-2.5 bg-gray-800 hover:bg-gray-900 text-white font-bold rounded-lg transition-all shadow-sm active:scale-95 cursor-pointer text-[11px] uppercase tracking-wider">
                     Ciclo 16
+                </button>
+                <button type="button" onclick="selectInitialCiclo('C17')" class="py-2.5 bg-brand-orange hover:bg-brand-orangeHover text-white font-bold rounded-lg transition-all shadow-sm active:scale-95 cursor-pointer text-[11px] uppercase tracking-wider">
+                    Ciclo 17
                 </button>
             </div>
         </div>
@@ -154,8 +154,8 @@
                     </label>
                     <div class="relative">
                         <select id="ciclo-select" class="w-full appearance-none bg-brand-gray border border-gray-200 rounded-xl px-4 py-3 text-sm font-semibold text-text-main focus:outline-none focus:border-brand-orange focus:ring-1 focus:ring-brand-orange transition-colors cursor-pointer shadow-none">
-                            <option value="C15">Ciclo 15</option>
                             <option value="C16">Ciclo 16</option>
+                            <option value="C17">Ciclo 17</option>
                         </select>
                         <i data-lucide="chevron-down" class="absolute right-4 top-1/2 -translate-y-1/2 w-4 h-4 text-text-sec pointer-events-none stroke-[2.5]"></i>
                     </div>
@@ -250,7 +250,7 @@
 
     <script>
         let db = { site: [], gerencias: [], cuotas: {}, stock: {} };
-        let state = { tab: 'Natura', gerenciaId: '', ciclo: 'C15', searchCode: '' };
+        let state = { tab: 'Natura', gerenciaId: '', ciclo: 'C16', searchCode: '' };
         let currentFilteredItems = [];
         let selectionMode = false;
         let selectedPlansMap = new Map(); 
@@ -314,7 +314,7 @@
                 
                 let response = await fetch(`./data.json?v=${new Date().getTime()}`);
                 if (!response.ok) {
-                    const fallbackName = state.ciclo === 'C15' ? './data.json' : `./data_${state.ciclo}.json`;
+                    const fallbackName = state.ciclo === 'C16' ? './data.json' : `./data_${state.ciclo}.json`;
                     response = await fetch(`${fallbackName}?v=${new Date().getTime()}`);
                 }
                 
@@ -390,7 +390,7 @@
 
         function getImg(marca, cod) {
             const brand = (marca || '').toString().trim().toLowerCase() === 'avon' ? 'Avon' : 'Natura';
-            const cicloNum = (state.ciclo || 'C15').replace(/\D/g, '');
+            const cicloNum = (state.ciclo || 'C16').replace(/\D/g, '');
             return `./Imagenes/${brand}/C${cicloNum}/${cod}.jpg`;
         }
 
@@ -398,7 +398,7 @@
             if (!img.dataset.tryStep) img.dataset.tryStep = "1";
             const step = parseInt(img.dataset.tryStep);
             const brand = (marca || '').toString().trim().toLowerCase() === 'avon' ? 'Avon' : 'Natura';
-            const cicloNum = (state.ciclo || 'C15').replace(/\D/g, '');
+            const cicloNum = (state.ciclo || 'C16').replace(/\D/g, '');
             
             const fallbacks = [
                 `./Imagenes/${brand}/C${cicloNum}/${cod}.png`,
