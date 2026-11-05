@@ -1,1586 +1,1586 @@
-﻿{
-    "updatedAt":  "2026-11-05T16:25:31Z",
-    "site":  [
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Regalo Faces Glitter + Labial",
-                                       "cod":  "288326"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Regalo Faces Glitter + Labial II",
-                                       "cod":  "268832"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Kit Chronos Dia y Noche +80",
-                                       "cod":  "281735"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Kit Chronos (Limpieza + Tratamiento)",
-                                       "cod":  "268783"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Kit Chronos Dia y Noche +70",
-                                       "cod":  "281734"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Kit Chronos (Limpieza + Tratamiento)",
-                                       "cod":  "268783"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 31N",
-                                       "cod":  "108142"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE SERUM NUDE ME 31N",
-                                       "cod":  "110194"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "LUMINA CREMA PARA PEINAR RIZOS 300ML",
-                                       "cod":  "148437"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "LUMINA CREMA PARA PEINAR 250ML",
-                                       "cod":  "147453"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 16F",
-                                       "cod":  "108128"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE SERUM NUDE ME 16F SCH TERC",
-                                       "cod":  "110184"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "EKOS OLEO HIS DES TRIFAS MARAC 200ML LTM",
-                                       "cod":  "97428"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "EKOS OLEO TRIF DES MARACU CORPORAL 100ML",
-                                       "cod":  "197209"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 24F",
-                                       "cod":  "108133"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE SERUM NUDE ME 24F SCH TERC",
-                                       "cod":  "110189"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Lumina Spray Cabello Rizado 150ml",
-                                       "cod":  "148419"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Lumina Spray Hidratante 150ml",
-                                       "cod":  "147434"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 23F",
-                                       "cod":  "108132"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE SERUM NUDE  23F",
-                                       "cod":  "110188"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "MMBB Loción Hidratante 200ml",
-                                       "cod":  "92804"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "MMBB Jabón Liquido200ml",
-                                       "cod":  "92800"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA GLOSS LABIAL HIDRATACIÓN ACTIVA ROSE 1 5ML",
-                                       "cod":  "164826"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA GLOSS LABIAL FPS15 ROSA 101 SSG",
-                                       "cod":  "92566"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA GLOSS LABIAL VOLUMEN INMEDIATO INCOLORO 5ML",
-                                       "cod":  "164824"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA GLOSS LABIAL FPS15 BOCA 100 SSG",
-                                       "cod":  "92603"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "CHRONOS SERUM LIFTING FIRMEZA PS 30ML",
-                                       "cod":  "169247"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "CHRONOS SERUM ANTIOLEOSIDAD PS 30ML",
-                                       "cod":  "169229"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "KIT TODODIA MANGO PRODUCTIVO (HC +JB +JL+ BS)",
-                                       "cod":  "281742"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "KIT TODODIA MANGO PRODUCTIVO (HC +JB + BS)",
-                                       "cod":  "268801"
-                                   },
-                                   {
-                                       "type":  "C",
-                                       "desc":  "Kit Tododia Frutilla y Vainilla Dorada Productivo",
-                                       "cod":  "268844"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Tododia RF Mango y Agua de Coco 400ml",
-                                       "cod":  "103382"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Tododia RF Avellana y Cassis 400ml",
-                                       "cod":  "74849"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "TODODIA MANGO CB HC JB BS + KAIAK C16AR",
-                                       "cod":  "281712"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Kit CB Tododia + Kaiak",
-                                       "cod":  "268840"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "TODODIA MANGO BASICO HC DEO CREMA C16AR",
-                                       "cod":  "281713"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Kit Tododia Frutilla y Vainilla Dorada",
-                                       "cod":  "268822"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "RDC - Tododia",
-                                       "cod":  "274920"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Kit Tododia Mora Roja y Jabuticaba",
-                                       "cod":  "268825"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 20N",
-                                       "cod":  "108130"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE SERUM NUDE ME 20N",
-                                       "cod":  "110186"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 25Q 25C",
-                                       "cod":  "108135"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE STICK 25Q 25C TERC",
-                                       "cod":  "181514"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "CPV MINI ANOTADOR 2025 ARG",
-                                       "cod":  "230082"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "CPV SENALADORES 2025 ARG",
-                                       "cod":  "174155"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "EKOS COL FRESCOR MARACUJA 150ML MEX",
-                                       "cod":  "73574"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "EKOS EDT FRESCOR CUPUACU 150ML",
-                                       "cod":  "199394"
-                                   },
-                                   {
-                                       "type":  "C",
-                                       "desc":  "EKOS EDT ANDIROBA FRESCOR 150ML",
-                                       "cod":  "218360"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "TODODIA DES AXIL CRM MANGA ROSA 50G",
-                                       "cod":  "199381"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "TODODIA DES ROLLON AMEIXA 70ML",
-                                       "cod":  "189447"
-                                   },
-                                   {
-                                       "type":  "C",
-                                       "desc":  "TODODIA DES ROLLON ALGODAO 70ML",
-                                       "cod":  "189443"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "TODODIA SAB LIQ MANGA E COCO 300ML AVN",
-                                       "cod":  "91192"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "TODODIA SAB LIQ CEREJA E AVELA 300ML",
-                                       "cod":  "95843"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "UNA BASE MATTE 40Q 40C",
-                                       "cod":  "108153"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "UNA BASE STICK 40Q",
-                                       "cod":  "181519"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Segno Impact Edp",
-                                       "cod":  "135896"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Segno Visionary Edp",
-                                       "cod":  "135897"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "Passion Dance For Men Edc",
-                                       "cod":  "134038"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "MUSK RAIN EDT 75ML",
-                                       "cod":  "236362"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "TODODIA ESSENC CABELOS CEREJA AVELA 60ML",
-                                       "cod":  "176406"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "TODODIA ESSENCIA CABELOS 60ML",
-                                       "cod":  "174032"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "RELOJ ANALÓGICO MATEO",
-                                       "cod":  "208994"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "RELOJ DIGITAL CORAZONES Y PUNTOS",
-                                       "cod":  "208822"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "TODODIA SAB BARRA MANGA P 5X90G",
-                                       "cod":  "90965"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "TODODIA FRAMBOESA SAB EM BARRA 5X90G",
-                                       "cod":  "2831"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "RDC - FACES BATOM DUO",
-                                       "cod":  "288327"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Kit Faces (Mascara + Labial)",
-                                       "cod":  "268776"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202616",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "CORTADORA SPORT",
-                                       "cod":  "208818"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "CEPILLO ELECTRO 4 EN 1",
-                                       "cod":  "217022"
-                                   },
-                                   {
-                                       "type":  "C",
-                                       "desc":  "SECADOR MISTRAL 3D BLUE TITANIO",
-                                       "cod":  "208825"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202617",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "kit latin attitude wishes",
-                                       "cod":  "285861"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Latin Attitude wishes",
-                                       "cod":  "207535"
-                                   }
-                               ]
-                 }
-             ],
-    "cuotas":  {
-                   "300001404":  {
-                                     "169217":  101,
-                                     "180477":  1032,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  380,
-                                     "108132":  0,
-                                     "205975":  22,
-                                     "282851":  44,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  143,
-                                     "244435":  -1,
-                                     "199381":  -1759,
-                                     "158874":  0,
-                                     "208715":  -1,
-                                     "207712":  6,
-                                     "244433":  53,
-                                     "91192":  -143,
-                                     "199898":  1,
-                                     "208705":  9,
-                                     "90965":  1543,
-                                     "282848":  210,
-                                     "282840":  50,
-                                     "207811":  0,
-                                     "164821":  59,
-                                     "207662":  0,
-                                     "283681":  376,
-                                     "193840":  40,
-                                     "244436":  64,
-                                     "282847":  1,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "108128":  5,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  358,
-                                     "103593":  552,
-                                     "108153":  0,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  170
-                                 },
-                   "300001694":  {
-                                     "169217":  124,
-                                     "108132":  2,
-                                     "275899":  0,
-                                     "199887":  10,
-                                     "282831":  586,
-                                     "205975":  51,
-                                     "282851":  288,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  222,
-                                     "244435":  0,
-                                     "199381":  0,
-                                     "158874":  31,
-                                     "282835":  0,
-                                     "208715":  21,
-                                     "207712":  1,
-                                     "244433":  67,
-                                     "91192":  0,
-                                     "199898":  6,
-                                     "208705":  13,
-                                     "90965":  2160,
-                                     "282848":  583,
-                                     "282840":  2366,
-                                     "207811":  0,
-                                     "164821":  96,
-                                     "207662":  0,
-                                     "283681":  779,
-                                     "193840":  58,
-                                     "244436":  69,
-                                     "282847":  538,
-                                     "180477":  937,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  464,
-                                     "103593":  529,
-                                     "108153":  4,
-                                     "199901":  1,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  248
-                                 },
-                   "300000021":  {
-                                     "169217":  104,
-                                     "180477":  902,
-                                     "275899":  0,
-                                     "199887":  8,
-                                     "282831":  498,
-                                     "108132":  10,
-                                     "205975":  43,
-                                     "282851":  244,
-                                     "282848":  495,
-                                     "244434":  0,
-                                     "158624":  181,
-                                     "244435":  -3,
-                                     "127754":  0,
-                                     "158874":  32,
-                                     "208715":  15,
-                                     "207712":  13,
-                                     "244433":  51,
-                                     "91192":  0,
-                                     "199898":  7,
-                                     "208705":  15,
-                                     "90965":  2603,
-                                     "282847":  457,
-                                     "282840":  2011,
-                                     "207811":  0,
-                                     "164821":  107,
-                                     "207662":  0,
-                                     "283681":  662,
-                                     "193840":  52,
-                                     "244436":  63,
-                                     "199381":  0,
-                                     "108133":  3,
-                                     "282835":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  390,
-                                     "103593":  469,
-                                     "108153":  2,
-                                     "95034":  0,
-                                     "199901":  1,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  217
-                                 },
-                   "300000025":  {
-                                     "169217":  0,
-                                     "180477":  532,
-                                     "199887":  0,
-                                     "282831":  11,
-                                     "108132":  2,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  67,
-                                     "244435":  0,
-                                     "199381":  -2305,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  -241,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282847":  128,
-                                     "282840":  74,
-                                     "275899":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  18,
-                                     "244436":  3,
-                                     "108133":  0,
-                                     "283129":  108,
-                                     "282835":  38,
-                                     "282848":  123,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  207,
-                                     "103593":  342,
-                                     "108153":  0,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "207811":  0
-                                 },
-                   "300001234":  {
-                                     "169217":  0,
-                                     "199381":  -2530,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  17,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "108153":  0,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "282835":  18,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  -232,
-                                     "199898":  0,
-                                     "208705":  3,
-                                     "90965":  1,
-                                     "282847":  121,
-                                     "282840":  57,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  24,
-                                     "244436":  14,
-                                     "180477":  572,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "282848":  315,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  183,
-                                     "103593":  368,
-                                     "108132":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  101
-                                 },
-                   "300001403":  {
-                                     "169217":  24,
-                                     "180477":  711,
-                                     "275899":  0,
-                                     "199887":  2,
-                                     "282831":  113,
-                                     "108132":  1,
-                                     "205975":  34,
-                                     "282851":  117,
-                                     "127754":  0,
-                                     "244434":  -2,
-                                     "158624":  115,
-                                     "244435":  -2,
-                                     "199381":  -231,
-                                     "158874":  11,
-                                     "208715":  12,
-                                     "207712":  5,
-                                     "244433":  13,
-                                     "91192":  -127,
-                                     "199898":  3,
-                                     "208705":  7,
-                                     "90965":  1987,
-                                     "282848":  333,
-                                     "282840":  483,
-                                     "207811":  0,
-                                     "164821":  65,
-                                     "207662":  0,
-                                     "283681":  370,
-                                     "193840":  33,
-                                     "244436":  35,
-                                     "282847":  3,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "108128":  2,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  255,
-                                     "103593":  422,
-                                     "108153":  0,
-                                     "95034":  0,
-                                     "199901":  1,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  121
-                                 },
-                   "300001235":  {
-                                     "169217":  140,
-                                     "199381":  -2153,
-                                     "199887":  1,
-                                     "282831":  428,
-                                     "108132":  0,
-                                     "205975":  33,
-                                     "282851":  9,
-                                     "282848":  398,
-                                     "244434":  0,
-                                     "158624":  230,
-                                     "244435":  -2,
-                                     "199901":  0,
-                                     "127754":  0,
-                                     "158874":  0,
-                                     "208715":  22,
-                                     "207712":  4,
-                                     "244433":  85,
-                                     "91192":  -67,
-                                     "199898":  1,
-                                     "208705":  9,
-                                     "90965":  3031,
-                                     "282847":  1,
-                                     "282840":  599,
-                                     "275899":  0,
-                                     "164821":  144,
-                                     "207662":  0,
-                                     "283681":  347,
-                                     "193840":  60,
-                                     "244436":  86,
-                                     "180477":  1352,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "108128":  3,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  502,
-                                     "103593":  729,
-                                     "108153":  1,
-                                     "95034":  0,
-                                     "283129":  281,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "207811":  0
-                                 },
-                   "300001000":  {
-                                     "169217":  0,
-                                     "180477":  0,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  0,
-                                     "108132":  0,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "199381":  0,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  0,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282848":  0,
-                                     "282840":  0,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  0,
-                                     "244436":  0,
-                                     "282847":  0,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  0,
-                                     "103593":  0,
-                                     "108153":  0,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  0
-                                 },
-                   "300000024":  {
-                                     "169217":  92,
-                                     "199381":  -761,
-                                     "275899":  0,
-                                     "199887":  8,
-                                     "282831":  221,
-                                     "108132":  2,
-                                     "205975":  32,
-                                     "282851":  67,
-                                     "127754":  0,
-                                     "244434":  -4,
-                                     "158624":  205,
-                                     "244435":  -1,
-                                     "158874":  24,
-                                     "208715":  6,
-                                     "207712":  6,
-                                     "244433":  63,
-                                     "91192":  -98,
-                                     "199898":  2,
-                                     "208705":  14,
-                                     "90965":  2328,
-                                     "282847":  0,
-                                     "282840":  161,
-                                     "207811":  0,
-                                     "164821":  76,
-                                     "207662":  0,
-                                     "283681":  444,
-                                     "193840":  50,
-                                     "244436":  74,
-                                     "180477":  1024,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "282848":  152,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  408,
-                                     "103593":  573,
-                                     "108153":  2,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  207
-                                 },
-                   "300001293":  {
-                                     "169217":  119,
-                                     "180477":  878,
-                                     "275899":  0,
-                                     "199887":  5,
-                                     "282831":  521,
-                                     "108132":  7,
-                                     "205975":  52,
-                                     "282851":  256,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  146,
-                                     "244435":  0,
-                                     "199381":  0,
-                                     "158874":  11,
-                                     "208715":  20,
-                                     "207712":  7,
-                                     "244433":  40,
-                                     "91192":  0,
-                                     "199898":  1,
-                                     "208705":  13,
-                                     "90965":  2417,
-                                     "282848":  518,
-                                     "282840":  2103,
-                                     "207811":  0,
-                                     "164821":  71,
-                                     "207662":  0,
-                                     "283681":  692,
-                                     "193840":  51,
-                                     "244436":  62,
-                                     "282847":  478,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "108128":  3,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  340,
-                                     "103593":  497,
-                                     "108153":  3,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  196
-                                 },
-                   "300001692":  {
-                                     "169217":  0,
-                                     "199381":  -2094,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  9,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  -3,
-                                     "108153":  0,
-                                     "158624":  0,
-                                     "244435":  -1,
-                                     "282835":  16,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  -218,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282847":  125,
-                                     "282840":  73,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  0,
-                                     "244436":  0,
-                                     "180477":  466,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "282848":  277,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  151,
-                                     "103593":  332,
-                                     "108132":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  85
-                                 },
-                   "300001425":  {
-                                     "169217":  0,
-                                     "180477":  0,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  0,
-                                     "108132":  0,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "282835":  0,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  0,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282847":  0,
-                                     "282840":  0,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  0,
-                                     "244436":  0,
-                                     "199381":  0,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "282848":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  0,
-                                     "103593":  0,
-                                     "108153":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  0
-                                 },
-                   "300001550":  {
-                                     "169217":  0,
-                                     "180477":  0,
-                                     "199887":  0,
-                                     "282831":  0,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "108153":  0,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "199381":  0,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  0,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282847":  0,
-                                     "282840":  0,
-                                     "275899":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  0,
-                                     "244436":  0,
-                                     "108133":  0,
-                                     "283129":  0,
-                                     "282835":  0,
-                                     "282848":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  0,
-                                     "103593":  0,
-                                     "108132":  0,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "207811":  0
-                                 },
-                   "300001292":  {
-                                     "169217":  42,
-                                     "180477":  487,
-                                     "199887":  2,
-                                     "282831":  316,
-                                     "108132":  6,
-                                     "205975":  29,
-                                     "282851":  155,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  114,
-                                     "244435":  0,
-                                     "199901":  3,
-                                     "199381":  -1,
-                                     "158874":  4,
-                                     "208715":  10,
-                                     "207712":  6,
-                                     "244433":  33,
-                                     "91192":  0,
-                                     "199898":  0,
-                                     "208705":  9,
-                                     "90965":  1555,
-                                     "282848":  315,
-                                     "282840":  1278,
-                                     "275899":  0,
-                                     "164821":  41,
-                                     "207662":  0,
-                                     "283681":  420,
-                                     "193840":  27,
-                                     "244436":  30,
-                                     "282847":  290,
-                                     "108133":  1,
-                                     "282835":  0,
-                                     "108128":  2,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  219,
-                                     "103593":  216,
-                                     "108153":  2,
-                                     "95034":  0,
-                                     "283129":  109,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "207811":  0
-                                 },
-                   "300001377":  {
-                                     "169217":  0,
-                                     "199381":  0,
-                                     "199887":  0,
-                                     "282831":  0,
-                                     "108132":  0,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "282848":  0,
-                                     "244434":  0,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "282835":  0,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  0,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282847":  0,
-                                     "282840":  0,
-                                     "275899":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  0,
-                                     "244436":  0,
-                                     "127754":  0,
-                                     "180477":  0,
-                                     "108133":  0,
-                                     "283129":  0,
-                                     "95034":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  0,
-                                     "103593":  0,
-                                     "108153":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "207811":  0
-                                 },
-                   "300001121":  {
-                                     "169217":  0,
-                                     "180477":  647,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  6,
-                                     "108132":  0,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "282835":  18,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  -221,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282848":  139,
-                                     "282840":  32,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  3,
-                                     "244436":  14,
-                                     "199381":  -2643,
-                                     "282847":  144,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  175,
-                                     "103593":  415,
-                                     "108153":  3,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  66
-                                 },
-                   "300000022":  {
-                                     "169217":  0,
-                                     "199381":  -1035,
-                                     "275899":  0,
-                                     "199887":  1,
-                                     "282831":  1,
-                                     "108132":  0,
-                                     "205975":  1,
-                                     "282851":  62,
-                                     "282848":  336,
-                                     "244434":  0,
-                                     "158624":  79,
-                                     "244435":  0,
-                                     "127754":  0,
-                                     "158874":  4,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  3,
-                                     "91192":  -214,
-                                     "199898":  0,
-                                     "208705":  5,
-                                     "90965":  1411,
-                                     "282847":  0,
-                                     "282840":  0,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  241,
-                                     "193840":  31,
-                                     "244436":  23,
-                                     "180477":  694,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  172,
-                                     "103593":  374,
-                                     "108153":  0,
-                                     "95034":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  82
-                                 },
-                   "300001123":  {
-                                     "169217":  0,
-                                     "180477":  229,
-                                     "275899":  0,
-                                     "199887":  0,
-                                     "282831":  21,
-                                     "108132":  0,
-                                     "205975":  0,
-                                     "282851":  0,
-                                     "127754":  0,
-                                     "244434":  -1,
-                                     "158624":  0,
-                                     "244435":  0,
-                                     "282835":  23,
-                                     "158874":  0,
-                                     "208715":  0,
-                                     "207712":  0,
-                                     "244433":  0,
-                                     "91192":  -348,
-                                     "199898":  0,
-                                     "208705":  0,
-                                     "90965":  0,
-                                     "282847":  140,
-                                     "282840":  54,
-                                     "207811":  0,
-                                     "164821":  0,
-                                     "207662":  0,
-                                     "283681":  0,
-                                     "193840":  15,
-                                     "244436":  0,
-                                     "199381":  -2734,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "282848":  322,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  0,
-                                     "103593":  337,
-                                     "108153":  0,
-                                     "199901":  0,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  120
-                                 },
-                   "300001122":  {
-                                     "169217":  124,
-                                     "108132":  7,
-                                     "275899":  0,
-                                     "199887":  3,
-                                     "282831":  429,
-                                     "205975":  40,
-                                     "282851":  211,
-                                     "127754":  0,
-                                     "244434":  0,
-                                     "158624":  197,
-                                     "244435":  1,
-                                     "199381":  4,
-                                     "158874":  26,
-                                     "208715":  14,
-                                     "207712":  7,
-                                     "244433":  63,
-                                     "91192":  0,
-                                     "199898":  3,
-                                     "208705":  13,
-                                     "90965":  1793,
-                                     "282847":  393,
-                                     "282840":  1732,
-                                     "207811":  0,
-                                     "164821":  65,
-                                     "207662":  0,
-                                     "283681":  570,
-                                     "193840":  49,
-                                     "244436":  64,
-                                     "180477":  812,
-                                     "108133":  0,
-                                     "282835":  0,
-                                     "282848":  426,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  410,
-                                     "103593":  421,
-                                     "108153":  3,
-                                     "95034":  0,
-                                     "199901":  3,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  223
-                                 },
-                   "300001367":  {
-                                     "169217":  146,
-                                     "108132":  5,
-                                     "199887":  10,
-                                     "282831":  485,
-                                     "205975":  45,
-                                     "282851":  238,
-                                     "282848":  482,
-                                     "244434":  0,
-                                     "158624":  208,
-                                     "244435":  0,
-                                     "127754":  0,
-                                     "158874":  22,
-                                     "282835":  0,
-                                     "208715":  23,
-                                     "207712":  13,
-                                     "244433":  75,
-                                     "91192":  0,
-                                     "199898":  6,
-                                     "208705":  10,
-                                     "90965":  2426,
-                                     "282847":  445,
-                                     "282840":  1958,
-                                     "275899":  0,
-                                     "164821":  83,
-                                     "207662":  0,
-                                     "283681":  644,
-                                     "193840":  54,
-                                     "244436":  70,
-                                     "199381":  0,
-                                     "180477":  897,
-                                     "108133":  0,
-                                     "283129":  237,
-                                     "95034":  0,
-                                     "108128":  0,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  455,
-                                     "103593":  475,
-                                     "108153":  3,
-                                     "199901":  3,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "207811":  0
-                                 },
-                   "300001693":  {
-                                     "169217":  23,
-                                     "180477":  885,
-                                     "275899":  0,
-                                     "199887":  8,
-                                     "282831":  17,
-                                     "108132":  3,
-                                     "205975":  23,
-                                     "282851":  72,
-                                     "127754":  0,
-                                     "244434":  -6,
-                                     "158624":  175,
-                                     "244435":  -3,
-                                     "282835":  0,
-                                     "158874":  29,
-                                     "208715":  20,
-                                     "207712":  1,
-                                     "244433":  29,
-                                     "91192":  -88,
-                                     "199898":  4,
-                                     "208705":  11,
-                                     "90965":  2577,
-                                     "282847":  5,
-                                     "282840":  680,
-                                     "207811":  0,
-                                     "164821":  33,
-                                     "207662":  0,
-                                     "283681":  372,
-                                     "193840":  34,
-                                     "244436":  53,
-                                     "199381":  -532,
-                                     "108133":  0,
-                                     "95034":  0,
-                                     "282848":  279,
-                                     "108128":  6,
-                                     "73574":  0,
-                                     "134586":  0,
-                                     "158623":  376,
-                                     "103593":  505,
-                                     "108153":  0,
-                                     "199901":  1,
-                                     "268848":  0,
-                                     "275927":  0,
-                                     "283129":  176
-                                 }
-               },
-    "gerencias":  [
-                      {
-                          "id":  "300001692",
-                          "name":  "AMANCAY"
-                      },
-                      {
-                          "id":  "300001234",
-                          "name":  "AMBAY"
-                      },
-                      {
-                          "id":  "300000025",
-                          "name":  "ARRAYAN"
-                      },
-                      {
-                          "id":  "300001123",
-                          "name":  "COLIBRI"
-                      },
-                      {
-                          "id":  "300001121",
-                          "name":  "JACARANDA"
-                      },
-                      {
-                          "id":  "300001404",
-                          "name":  "ALGARROBO"
-                      },
-                      {
-                          "id":  "300000022",
-                          "name":  "LIRIO"
-                      },
-                      {
-                          "id":  "300000024",
-                          "name":  "MAITEN"
-                      },
-                      {
-                          "id":  "300001693",
-                          "name":  "CALDEN"
-                      },
-                      {
-                          "id":  "300001403",
-                          "name":  "GAVIOTA"
-                      },
-                      {
-                          "id":  "300001235",
-                          "name":  "LAPACHO"
-                      },
-                      {
-                          "id":  "300001694",
-                          "name":  "CEIBO"
-                      },
-                      {
-                          "id":  "300001292",
-                          "name":  "CONDOR"
-                      },
-                      {
-                          "id":  "300001367",
-                          "name":  "GUAYACAN"
-                      },
-                      {
-                          "id":  "300001122",
-                          "name":  "TIMBO"
-                      },
-                      {
-                          "id":  "300001293",
-                          "name":  "YAGUARETE"
-                      },
-                      {
-                          "id":  "300000021",
-                          "name":  "PASIONARIA"
-                      }
-                  ]
+{
+  "site": [
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "Regalo Faces Glitter + Labial",
+          "cod": "288326",
+          "type": "A"
+        },
+        {
+          "desc": "Regalo Faces Glitter + Labial II",
+          "cod": "268832",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "Kit Chronos Dia y Noche +80",
+          "cod": "281735",
+          "type": "A"
+        },
+        {
+          "desc": "Kit Chronos (Limpieza + Tratamiento)",
+          "cod": "268783",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "Kit Chronos Dia y Noche +70",
+          "cod": "281734",
+          "type": "A"
+        },
+        {
+          "desc": "Kit Chronos (Limpieza + Tratamiento)",
+          "cod": "268783",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 31N",
+          "cod": "108142",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE SERUM NUDE ME 31N",
+          "cod": "110194",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "LUMINA CREMA PARA PEINAR RIZOS 300ML",
+          "cod": "148437",
+          "type": "A"
+        },
+        {
+          "desc": "LUMINA CREMA PARA PEINAR 250ML",
+          "cod": "147453",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 16F",
+          "cod": "108128",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE SERUM NUDE ME 16F SCH TERC",
+          "cod": "110184",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "EKOS OLEO HIS DES TRIFAS MARAC 200ML LTM",
+          "cod": "97428",
+          "type": "A"
+        },
+        {
+          "desc": "EKOS OLEO TRIF DES MARACU CORPORAL 100ML",
+          "cod": "197209",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 24F",
+          "cod": "108133",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE SERUM NUDE ME 24F SCH TERC",
+          "cod": "110189",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "Lumina Spray Cabello Rizado 150ml",
+          "cod": "148419",
+          "type": "A"
+        },
+        {
+          "desc": "Lumina Spray Hidratante 150ml",
+          "cod": "147434",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 23F",
+          "cod": "108132",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE SERUM NUDE  23F",
+          "cod": "110188",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "MMBB Loción Hidratante 200ml",
+          "cod": "92804",
+          "type": "A"
+        },
+        {
+          "desc": "MMBB Jabón Liquido200ml",
+          "cod": "92800",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA GLOSS LABIAL HIDRATACIÓN ACTIVA ROSE 1 5ML",
+          "cod": "164826",
+          "type": "A"
+        },
+        {
+          "desc": "UNA GLOSS LABIAL FPS15 ROSA 101 SSG",
+          "cod": "92566",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA GLOSS LABIAL VOLUMEN INMEDIATO INCOLORO 5ML",
+          "cod": "164824",
+          "type": "A"
+        },
+        {
+          "desc": "UNA GLOSS LABIAL FPS15 BOCA 100 SSG",
+          "cod": "92603",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "CHRONOS SERUM LIFTING FIRMEZA PS 30ML",
+          "cod": "169247",
+          "type": "A"
+        },
+        {
+          "desc": "CHRONOS SERUM ANTIOLEOSIDAD PS 30ML",
+          "cod": "169229",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "KIT TODODIA MANGO PRODUCTIVO (HC +JB +JL+ BS)",
+          "cod": "281742",
+          "type": "A"
+        },
+        {
+          "desc": "KIT TODODIA MANGO PRODUCTIVO (HC +JB + BS)",
+          "cod": "268801",
+          "type": "B"
+        },
+        {
+          "desc": "Kit Tododia Frutilla y Vainilla Dorada Productivo",
+          "cod": "268844",
+          "type": "C"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "Tododia RF Mango y Agua de Coco 400ml",
+          "cod": "103382",
+          "type": "A"
+        },
+        {
+          "desc": "Tododia RF Avellana y Cassis 400ml",
+          "cod": "74849",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "TODODIA MANGO CB HC JB BS + KAIAK C16AR",
+          "cod": "281712",
+          "type": "A"
+        },
+        {
+          "desc": "Kit CB Tododia + Kaiak",
+          "cod": "268840",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "TODODIA MANGO BASICO HC DEO CREMA C16AR",
+          "cod": "281713",
+          "type": "A"
+        },
+        {
+          "desc": "Kit Tododia Frutilla y Vainilla Dorada",
+          "cod": "268822",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "RDC - Tododia",
+          "cod": "274920",
+          "type": "A"
+        },
+        {
+          "desc": "Kit Tododia Mora Roja y Jabuticaba",
+          "cod": "268825",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 20N",
+          "cod": "108130",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE SERUM NUDE ME 20N",
+          "cod": "110186",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 25Q 25C",
+          "cod": "108135",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE STICK 25Q 25C TERC",
+          "cod": "181514",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "CPV MINI ANOTADOR 2025 ARG",
+          "cod": "230082",
+          "type": "A"
+        },
+        {
+          "desc": "CPV SENALADORES 2025 ARG",
+          "cod": "174155",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "EKOS COL FRESCOR MARACUJA 150ML MEX",
+          "cod": "73574",
+          "type": "A"
+        },
+        {
+          "desc": "EKOS EDT FRESCOR CUPUACU 150ML",
+          "cod": "199394",
+          "type": "B"
+        },
+        {
+          "desc": "EKOS EDT ANDIROBA FRESCOR 150ML",
+          "cod": "218360",
+          "type": "C"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "TODODIA DES AXIL CRM MANGA ROSA 50G",
+          "cod": "199381",
+          "type": "A"
+        },
+        {
+          "desc": "TODODIA DES ROLLON AMEIXA 70ML",
+          "cod": "189447",
+          "type": "B"
+        },
+        {
+          "desc": "TODODIA DES ROLLON ALGODAO 70ML",
+          "cod": "189443",
+          "type": "C"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "TODODIA SAB LIQ MANGA E COCO 300ML AVN",
+          "cod": "91192",
+          "type": "A"
+        },
+        {
+          "desc": "TODODIA SAB LIQ CEREJA E AVELA 300ML",
+          "cod": "95843",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "UNA BASE MATTE 40Q 40C",
+          "cod": "108153",
+          "type": "A"
+        },
+        {
+          "desc": "UNA BASE STICK 40Q",
+          "cod": "181519",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Avon",
+      "plans": [
+        {
+          "desc": "Segno Impact Edp",
+          "cod": "135896",
+          "type": "A"
+        },
+        {
+          "desc": "Segno Visionary Edp",
+          "cod": "135897",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Avon",
+      "plans": [
+        {
+          "desc": "Passion Dance For Men Edc",
+          "cod": "134038",
+          "type": "A"
+        },
+        {
+          "desc": "MUSK RAIN EDT 75ML",
+          "cod": "236362",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "TODODIA ESSENC CABELOS CEREJA AVELA 60ML",
+          "cod": "176406",
+          "type": "A"
+        },
+        {
+          "desc": "TODODIA ESSENCIA CABELOS 60ML",
+          "cod": "174032",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Avon",
+      "plans": [
+        {
+          "desc": "RELOJ ANALÓGICO MATEO",
+          "cod": "208994",
+          "type": "A"
+        },
+        {
+          "desc": "RELOJ DIGITAL CORAZONES Y PUNTOS",
+          "cod": "208822",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "TODODIA SAB BARRA MANGA P 5X90G",
+          "cod": "90965",
+          "type": "A"
+        },
+        {
+          "desc": "TODODIA FRAMBOESA SAB EM BARRA 5X90G",
+          "cod": "2831",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Natura",
+      "plans": [
+        {
+          "desc": "RDC - FACES BATOM DUO",
+          "cod": "288327",
+          "type": "A"
+        },
+        {
+          "desc": "Kit Faces (Mascara + Labial)",
+          "cod": "268776",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "ciclo": "202616",
+      "marca": "Avon",
+      "plans": [
+        {
+          "desc": "CORTADORA SPORT",
+          "cod": "208818",
+          "type": "A"
+        },
+        {
+          "desc": "CEPILLO ELECTRO 4 EN 1",
+          "cod": "217022",
+          "type": "B"
+        },
+        {
+          "desc": "SECADOR MISTRAL 3D BLUE TITANIO",
+          "cod": "208825",
+          "type": "C"
+        }
+      ]
+    },
+    {
+      "ciclo": "202617",
+      "marca": "Avon",
+      "plans": [
+        {
+          "desc": "kit latin attitude wishes",
+          "cod": "285861",
+          "type": "A"
+        },
+        {
+          "desc": "Latin Attitude wishes",
+          "cod": "207535",
+          "type": "B"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-05T17:21:20Z",
+  "cuotas": {
+    "300001234": {
+      "199901": 0,
+      "199381": -2530,
+      "199887": 0,
+      "283681": 0,
+      "91192": -232,
+      "180477": 572,
+      "164821": 0,
+      "90965": 1,
+      "283129": 101,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "199898": 0,
+      "158623": 183,
+      "244435": 0,
+      "127754": 0,
+      "193840": 24,
+      "95034": 0,
+      "103593": 368,
+      "208705": 3,
+      "282835": 18,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 315,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "205975": 0,
+      "207811": 0,
+      "282847": 121,
+      "108153": 0,
+      "282840": 57,
+      "282831": 17,
+      "134586": 0,
+      "244433": 0,
+      "108133": 0,
+      "158624": 0,
+      "244436": 14,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001122": {
+      "199901": 3,
+      "199381": 4,
+      "199887": 3,
+      "283681": 570,
+      "91192": 0,
+      "164821": 65,
+      "207811": 0,
+      "90965": 1793,
+      "283129": 223,
+      "275927": 0,
+      "282851": 211,
+      "103593": 421,
+      "199898": 3,
+      "158623": 410,
+      "244435": 1,
+      "127754": 0,
+      "193840": 49,
+      "95034": 0,
+      "208705": 13,
+      "282835": 0,
+      "158874": 26,
+      "208715": 14,
+      "268848": 0,
+      "108128": 0,
+      "282848": 426,
+      "207712": 7,
+      "207662": 0,
+      "73574": 0,
+      "108132": 7,
+      "169217": 124,
+      "205975": 40,
+      "180477": 812,
+      "282847": 393,
+      "108153": 3,
+      "282840": 1732,
+      "282831": 429,
+      "134586": 0,
+      "244433": 63,
+      "108133": 0,
+      "158624": 197,
+      "244436": 64,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001000": {
+      "199901": 0,
+      "199381": 0,
+      "199887": 0,
+      "283681": 0,
+      "91192": 0,
+      "164821": 0,
+      "90965": 0,
+      "283129": 0,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "199898": 0,
+      "158623": 0,
+      "244435": 0,
+      "127754": 0,
+      "193840": 0,
+      "95034": 0,
+      "208705": 0,
+      "282835": 0,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 0,
+      "205975": 0,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "158624": 0,
+      "103593": 0,
+      "180477": 0,
+      "282847": 0,
+      "108153": 0,
+      "282840": 0,
+      "282831": 0,
+      "134586": 0,
+      "108132": 0,
+      "244433": 0,
+      "108133": 0,
+      "207811": 0,
+      "244436": 0,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001121": {
+      "199901": 0,
+      "103593": 415,
+      "199887": 0,
+      "283681": 0,
+      "199381": -2643,
+      "91192": -221,
+      "164821": 0,
+      "90965": 0,
+      "283129": 66,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "193840": 3,
+      "158623": 175,
+      "244435": 0,
+      "127754": 0,
+      "95034": 0,
+      "199898": 0,
+      "208705": 0,
+      "207811": 0,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 139,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "205975": 0,
+      "180477": 647,
+      "282847": 144,
+      "108153": 3,
+      "282840": 32,
+      "282831": 6,
+      "134586": 0,
+      "244433": 0,
+      "282835": 18,
+      "108133": 0,
+      "158624": 0,
+      "244436": 14,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001293": {
+      "199901": 0,
+      "199381": 0,
+      "199887": 5,
+      "283681": 692,
+      "91192": 0,
+      "164821": 71,
+      "90965": 2417,
+      "283129": 196,
+      "275927": 0,
+      "282851": 256,
+      "103593": 497,
+      "193840": 51,
+      "158624": 146,
+      "127754": 0,
+      "95034": 0,
+      "199898": 1,
+      "208705": 13,
+      "282835": 0,
+      "158874": 11,
+      "208715": 20,
+      "268848": 0,
+      "108128": 3,
+      "282848": 518,
+      "207712": 7,
+      "207662": 0,
+      "73574": 0,
+      "108132": 7,
+      "169217": 119,
+      "205975": 52,
+      "180477": 878,
+      "244435": 0,
+      "108153": 3,
+      "282840": 2103,
+      "282831": 521,
+      "158623": 340,
+      "134586": 0,
+      "282847": 478,
+      "244433": 40,
+      "108133": 0,
+      "207811": 0,
+      "244436": 62,
+      "244434": 0,
+      "275899": 0
+    },
+    "300000025": {
+      "199901": 0,
+      "199381": -2305,
+      "199887": 0,
+      "283681": 0,
+      "91192": -241,
+      "164821": 0,
+      "90965": 0,
+      "158624": 67,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "199898": 0,
+      "158623": 207,
+      "244435": 0,
+      "127754": 0,
+      "193840": 18,
+      "95034": 0,
+      "103593": 342,
+      "208705": 0,
+      "282835": 38,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 123,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 2,
+      "205975": 0,
+      "180477": 532,
+      "283129": 108,
+      "282847": 128,
+      "108153": 0,
+      "282840": 74,
+      "282831": 11,
+      "134586": 0,
+      "244433": 0,
+      "108133": 0,
+      "207811": 0,
+      "244436": 3,
+      "244434": 0,
+      "275899": 0
+    },
+    "300000022": {
+      "199901": 0,
+      "199381": -1035,
+      "199887": 1,
+      "283681": 241,
+      "91192": -214,
+      "164821": 0,
+      "207811": 0,
+      "90965": 1411,
+      "283129": 82,
+      "275927": 0,
+      "282851": 62,
+      "169217": 0,
+      "199898": 0,
+      "158623": 172,
+      "244435": 0,
+      "127754": 0,
+      "193840": 31,
+      "95034": 0,
+      "103593": 374,
+      "208705": 5,
+      "282835": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 336,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "205975": 1,
+      "180477": 694,
+      "282847": 0,
+      "108153": 0,
+      "282840": 0,
+      "282831": 1,
+      "134586": 0,
+      "244433": 3,
+      "108133": 0,
+      "158874": 4,
+      "244436": 23,
+      "244434": 0,
+      "275899": 0,
+      "158624": 79
+    },
+    "300001692": {
+      "199901": 0,
+      "199381": -2094,
+      "199887": 0,
+      "283681": 0,
+      "91192": -218,
+      "108133": 0,
+      "164821": 0,
+      "90965": 0,
+      "283129": 85,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "199898": 0,
+      "158623": 151,
+      "244435": -1,
+      "127754": 0,
+      "193840": 0,
+      "95034": 0,
+      "103593": 332,
+      "208705": 0,
+      "282835": 16,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 277,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "205975": 0,
+      "207811": 0,
+      "282847": 125,
+      "108153": 0,
+      "282840": 73,
+      "282831": 9,
+      "134586": 0,
+      "244433": 0,
+      "180477": 466,
+      "158624": 0,
+      "244436": 0,
+      "244434": -3,
+      "275899": 0
+    },
+    "300001694": {
+      "199901": 1,
+      "199381": 0,
+      "199887": 10,
+      "283681": 779,
+      "91192": 0,
+      "180477": 937,
+      "164821": 96,
+      "90965": 2160,
+      "158624": 222,
+      "275927": 0,
+      "282851": 288,
+      "169217": 124,
+      "199898": 6,
+      "158623": 464,
+      "127754": 0,
+      "193840": 58,
+      "95034": 0,
+      "208705": 13,
+      "282835": 0,
+      "208715": 21,
+      "268848": 0,
+      "108128": 0,
+      "282848": 583,
+      "205975": 51,
+      "207712": 1,
+      "207662": 0,
+      "73574": 0,
+      "108132": 2,
+      "103593": 529,
+      "207811": 0,
+      "283129": 248,
+      "244435": 0,
+      "108153": 4,
+      "282840": 2366,
+      "282831": 586,
+      "134586": 0,
+      "282847": 538,
+      "244433": 67,
+      "108133": 0,
+      "158874": 31,
+      "244436": 69,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001404": {
+      "199901": 0,
+      "199381": -1759,
+      "199887": 0,
+      "283681": 376,
+      "91192": -143,
+      "164821": 59,
+      "90965": 1543,
+      "283129": 170,
+      "275927": 0,
+      "282851": 44,
+      "169217": 101,
+      "199898": 1,
+      "158623": 358,
+      "127754": 0,
+      "193840": 40,
+      "95034": 0,
+      "208705": 9,
+      "282835": 0,
+      "158874": 0,
+      "208715": -1,
+      "268848": 0,
+      "108128": 5,
+      "282848": 210,
+      "205975": 22,
+      "207712": 6,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "103593": 552,
+      "180477": 1032,
+      "244435": -1,
+      "108153": 0,
+      "282840": 50,
+      "282831": 380,
+      "134586": 0,
+      "282847": 1,
+      "244433": 53,
+      "108133": 0,
+      "207811": 0,
+      "244436": 64,
+      "244434": 0,
+      "275899": 0,
+      "158624": 143
+    },
+    "300001123": {
+      "199901": 0,
+      "199381": -2734,
+      "199887": 0,
+      "283681": 0,
+      "91192": -348,
+      "164821": 0,
+      "207811": 0,
+      "90965": 0,
+      "283129": 120,
+      "275927": 0,
+      "282851": 0,
+      "103593": 337,
+      "199898": 0,
+      "158623": 0,
+      "244435": 0,
+      "127754": 0,
+      "193840": 15,
+      "95034": 0,
+      "208705": 0,
+      "282835": 23,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 322,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "205975": 0,
+      "180477": 229,
+      "282847": 140,
+      "108153": 0,
+      "282840": 54,
+      "282831": 21,
+      "244434": -1,
+      "134586": 0,
+      "244433": 0,
+      "108133": 0,
+      "158874": 0,
+      "244436": 0,
+      "169217": 0,
+      "275899": 0,
+      "158624": 0
+    },
+    "300001403": {
+      "199901": 1,
+      "199381": -231,
+      "199887": 2,
+      "283681": 370,
+      "91192": -127,
+      "164821": 65,
+      "90965": 1987,
+      "283129": 121,
+      "275927": 0,
+      "282851": 117,
+      "169217": 24,
+      "199898": 3,
+      "158623": 255,
+      "127754": 0,
+      "193840": 33,
+      "95034": 0,
+      "208705": 7,
+      "282835": 0,
+      "158874": 11,
+      "208715": 12,
+      "268848": 0,
+      "108128": 2,
+      "282848": 333,
+      "205975": 34,
+      "207712": 5,
+      "207662": 0,
+      "73574": 0,
+      "108132": 1,
+      "103593": 422,
+      "180477": 711,
+      "244435": -2,
+      "108153": 0,
+      "282840": 483,
+      "282831": 113,
+      "134586": 0,
+      "282847": 3,
+      "244433": 13,
+      "108133": 0,
+      "207811": 0,
+      "244436": 35,
+      "244434": -2,
+      "275899": 0,
+      "158624": 115
+    },
+    "300001377": {
+      "199901": 0,
+      "199381": 0,
+      "199887": 0,
+      "283681": 0,
+      "91192": 0,
+      "164821": 0,
+      "90965": 0,
+      "158624": 0,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "199898": 0,
+      "158623": 0,
+      "244435": 0,
+      "127754": 0,
+      "193840": 0,
+      "95034": 0,
+      "208705": 0,
+      "282835": 0,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 0,
+      "205975": 0,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "103593": 0,
+      "180477": 0,
+      "283129": 0,
+      "282847": 0,
+      "108153": 0,
+      "282840": 0,
+      "282831": 0,
+      "134586": 0,
+      "244433": 0,
+      "108133": 0,
+      "207811": 0,
+      "244436": 0,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001367": {
+      "199901": 3,
+      "199381": 0,
+      "199887": 10,
+      "283681": 644,
+      "91192": 0,
+      "164821": 83,
+      "90965": 2426,
+      "158624": 208,
+      "275927": 0,
+      "282851": 238,
+      "103593": 475,
+      "193840": 54,
+      "158623": 455,
+      "244435": 0,
+      "127754": 0,
+      "95034": 0,
+      "199898": 6,
+      "208705": 10,
+      "282835": 0,
+      "158874": 22,
+      "208715": 23,
+      "268848": 0,
+      "108128": 0,
+      "282848": 482,
+      "207712": 13,
+      "207662": 0,
+      "73574": 0,
+      "108132": 5,
+      "169217": 146,
+      "205975": 45,
+      "180477": 897,
+      "283129": 237,
+      "282847": 445,
+      "108153": 3,
+      "282840": 1958,
+      "282831": 485,
+      "134586": 0,
+      "244433": 75,
+      "108133": 0,
+      "207811": 0,
+      "244436": 70,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001693": {
+      "199901": 1,
+      "103593": 505,
+      "199887": 8,
+      "283681": 372,
+      "199381": -532,
+      "91192": -88,
+      "164821": 33,
+      "90965": 2577,
+      "283129": 176,
+      "275927": 0,
+      "282851": 72,
+      "108133": 0,
+      "193840": 34,
+      "158624": 175,
+      "244435": -3,
+      "127754": 0,
+      "95034": 0,
+      "199898": 4,
+      "208705": 11,
+      "282835": 0,
+      "158874": 29,
+      "208715": 20,
+      "268848": 0,
+      "108128": 6,
+      "282848": 279,
+      "207712": 1,
+      "207662": 0,
+      "73574": 0,
+      "108132": 3,
+      "169217": 23,
+      "205975": 23,
+      "180477": 885,
+      "282847": 5,
+      "108153": 0,
+      "282840": 680,
+      "282831": 17,
+      "158623": 376,
+      "134586": 0,
+      "244433": 29,
+      "207811": 0,
+      "244436": 53,
+      "244434": -6,
+      "275899": 0
+    },
+    "300001425": {
+      "199901": 0,
+      "103593": 0,
+      "199887": 0,
+      "283681": 0,
+      "199381": 0,
+      "91192": 0,
+      "164821": 0,
+      "207811": 0,
+      "90965": 0,
+      "283129": 0,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "193840": 0,
+      "158624": 0,
+      "127754": 0,
+      "95034": 0,
+      "199898": 0,
+      "208705": 0,
+      "282835": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 0,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "108132": 0,
+      "205975": 0,
+      "180477": 0,
+      "244435": 0,
+      "108153": 0,
+      "282840": 0,
+      "282831": 0,
+      "158623": 0,
+      "134586": 0,
+      "282847": 0,
+      "244433": 0,
+      "108133": 0,
+      "158874": 0,
+      "244436": 0,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001550": {
+      "199901": 0,
+      "199381": 0,
+      "199887": 0,
+      "283681": 0,
+      "91192": 0,
+      "164821": 0,
+      "90965": 0,
+      "283129": 0,
+      "275927": 0,
+      "282851": 0,
+      "169217": 0,
+      "193840": 0,
+      "158623": 0,
+      "244435": 0,
+      "127754": 0,
+      "95034": 0,
+      "199898": 0,
+      "208705": 0,
+      "282835": 0,
+      "158874": 0,
+      "208715": 0,
+      "268848": 0,
+      "108128": 0,
+      "282848": 0,
+      "205975": 0,
+      "207712": 0,
+      "207662": 0,
+      "73574": 0,
+      "158624": 0,
+      "103593": 0,
+      "180477": 0,
+      "282847": 0,
+      "108153": 0,
+      "282840": 0,
+      "282831": 0,
+      "134586": 0,
+      "108132": 0,
+      "244433": 0,
+      "108133": 0,
+      "207811": 0,
+      "244436": 0,
+      "244434": 0,
+      "275899": 0
+    },
+    "300001292": {
+      "199901": 3,
+      "199381": -1,
+      "199887": 2,
+      "283681": 420,
+      "91192": 0,
+      "164821": 41,
+      "90965": 1555,
+      "283129": 109,
+      "275927": 0,
+      "282851": 155,
+      "169217": 42,
+      "199898": 0,
+      "158623": 219,
+      "127754": 0,
+      "193840": 27,
+      "95034": 0,
+      "208705": 9,
+      "282835": 0,
+      "158874": 4,
+      "208715": 10,
+      "268848": 0,
+      "108128": 2,
+      "282848": 315,
+      "205975": 29,
+      "207712": 6,
+      "207662": 0,
+      "73574": 0,
+      "108132": 6,
+      "103593": 216,
+      "180477": 487,
+      "244435": 0,
+      "108153": 2,
+      "282840": 1278,
+      "282831": 316,
+      "134586": 0,
+      "282847": 290,
+      "244433": 33,
+      "108133": 1,
+      "207811": 0,
+      "244436": 30,
+      "244434": 0,
+      "275899": 0,
+      "158624": 114
+    },
+    "300001235": {
+      "199901": 0,
+      "199381": -2153,
+      "199887": 1,
+      "283681": 347,
+      "91192": -67,
+      "164821": 144,
+      "90965": 3031,
+      "283129": 281,
+      "275927": 0,
+      "282851": 9,
+      "169217": 140,
+      "199898": 1,
+      "158623": 502,
+      "244435": -2,
+      "127754": 0,
+      "193840": 60,
+      "95034": 0,
+      "208705": 9,
+      "282835": 0,
+      "158874": 0,
+      "208715": 22,
+      "268848": 0,
+      "108128": 3,
+      "282848": 398,
+      "205975": 33,
+      "207712": 4,
+      "207662": 0,
+      "73574": 0,
+      "158624": 230,
+      "103593": 729,
+      "180477": 1352,
+      "282847": 1,
+      "108153": 1,
+      "282840": 599,
+      "282831": 428,
+      "134586": 0,
+      "108132": 0,
+      "244433": 85,
+      "108133": 0,
+      "207811": 0,
+      "244436": 86,
+      "244434": 0,
+      "275899": 0
+    },
+    "300000024": {
+      "199901": 0,
+      "199381": -761,
+      "199887": 8,
+      "283681": 444,
+      "91192": -98,
+      "164821": 76,
+      "90965": 2328,
+      "283129": 207,
+      "275927": 0,
+      "282851": 67,
+      "169217": 92,
+      "199898": 2,
+      "158623": 408,
+      "244435": -1,
+      "127754": 0,
+      "193840": 50,
+      "95034": 0,
+      "208705": 14,
+      "282835": 0,
+      "158874": 24,
+      "208715": 6,
+      "268848": 0,
+      "108128": 0,
+      "282848": 152,
+      "205975": 32,
+      "207712": 6,
+      "207662": 0,
+      "73574": 0,
+      "158624": 205,
+      "103593": 573,
+      "180477": 1024,
+      "282847": 0,
+      "108153": 2,
+      "282840": 161,
+      "282831": 221,
+      "134586": 0,
+      "108132": 2,
+      "244433": 63,
+      "108133": 0,
+      "207811": 0,
+      "244436": 74,
+      "244434": -4,
+      "275899": 0
+    },
+    "300000021": {
+      "199901": 1,
+      "199381": 0,
+      "199887": 8,
+      "283681": 662,
+      "91192": 0,
+      "164821": 107,
+      "90965": 2603,
+      "283129": 217,
+      "275927": 0,
+      "282851": 244,
+      "169217": 104,
+      "199898": 7,
+      "158624": 181,
+      "244435": -3,
+      "127754": 0,
+      "193840": 52,
+      "95034": 0,
+      "208705": 15,
+      "282835": 0,
+      "158874": 32,
+      "208715": 15,
+      "268848": 0,
+      "108128": 0,
+      "282848": 495,
+      "205975": 43,
+      "207712": 13,
+      "207662": 0,
+      "73574": 0,
+      "108132": 10,
+      "103593": 469,
+      "180477": 902,
+      "282847": 457,
+      "108153": 2,
+      "282840": 2011,
+      "282831": 498,
+      "158623": 390,
+      "134586": 0,
+      "244433": 51,
+      "108133": 3,
+      "207811": 0,
+      "244436": 63,
+      "244434": 0,
+      "275899": 0
+    }
+  },
+  "gerencias": [
+    {
+      "name": "AMANCAY",
+      "id": "300001692"
+    },
+    {
+      "name": "AMBAY",
+      "id": "300001234"
+    },
+    {
+      "name": "ARRAYAN",
+      "id": "300000025"
+    },
+    {
+      "name": "COLIBRI",
+      "id": "300001123"
+    },
+    {
+      "name": "JACARANDA",
+      "id": "300001121"
+    },
+    {
+      "name": "ALGARROBO",
+      "id": "300001404"
+    },
+    {
+      "name": "LIRIO",
+      "id": "300000022"
+    },
+    {
+      "name": "MAITEN",
+      "id": "300000024"
+    },
+    {
+      "name": "CALDEN",
+      "id": "300001693"
+    },
+    {
+      "name": "GAVIOTA",
+      "id": "300001403"
+    },
+    {
+      "name": "LAPACHO",
+      "id": "300001235"
+    },
+    {
+      "name": "CEIBO",
+      "id": "300001694"
+    },
+    {
+      "name": "CONDOR",
+      "id": "300001292"
+    },
+    {
+      "name": "GUAYACAN",
+      "id": "300001367"
+    },
+    {
+      "name": "TIMBO",
+      "id": "300001122"
+    },
+    {
+      "name": "YAGUARETE",
+      "id": "300001293"
+    },
+    {
+      "name": "PASIONARIA",
+      "id": "300000021"
+    }
+  ]
 }
