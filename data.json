@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-10T14:57:07Z",
+    "updatedAt":  "2026-11-10T15:14:21Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -610,6 +610,22 @@
                                        "type":  "B",
                                        "desc":  "Kit Chronos 45+ Día x2",
                                        "cod":  "268779"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202616",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kit x3 CF TTA The Moment edt + hcte + mini",
+                                       "cod":  "283071"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit x3 TTA Everlasting",
+                                       "cod":  "275860"
                                    }
                                ]
                  }
