@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-10T12:02:55Z",
+    "updatedAt":  "2026-11-10T14:33:58Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -594,6 +594,22 @@
                                        "type":  "B",
                                        "desc":  "Kit CB Ekos Maracuyá",
                                        "cod":  "268791"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202616",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "CHRONOS KIT 45+ DIA Y NOCHE C15ARG",
+                                       "cod":  "281736"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Chronos 45+ Día x2",
+                                       "cod":  "268779"
                                    }
                                ]
                  }
