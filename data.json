@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-12T12:31:53Z",
+    "updatedAt":  "2026-11-12T13:08:39Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -254,6 +254,11 @@
                                        "type":  "C",
                                        "desc":  "Kit Tododia Frutilla y Vainilla Dorada Productivo",
                                        "cod":  "268844"
+                                   },
+                                   {
+                                       "type":  "D",
+                                       "desc":  "Kit Tododia Piel Uniforme (HC + Bálsamo + Mantec + Exf)",
+                                       "cod":  "268781"
                                    }
                                ]
                  },
