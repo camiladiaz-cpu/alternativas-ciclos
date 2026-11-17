@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-17T19:26:10Z",
+    "updatedAt":  "2026-11-17T19:44:56Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -642,6 +642,54 @@
                                        "type":  "B",
                                        "desc":  "Kit x3 TTA Everlasting",
                                        "cod":  "275860"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Jabones regalables",
+                                       "cod":  "282840"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Jabones tododia frambuesa",
+                                       "cod":  "2831"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Regalo Rutina Mamá y bebé",
+                                       "cod":  "282851"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Regalo Mamá y bebé Colonia",
+                                       "cod":  "270283"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Navidad 2026 - Essencial Exclusivo fem + BC",
+                                       "cod":  "282836"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Essencial Mirra Fem",
+                                       "cod":  "272884"
                                    }
                                ]
                  }
