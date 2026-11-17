@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-17T19:44:56Z",
+    "updatedAt":  "2026-11-17T20:55:44Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -690,6 +690,22 @@
                                        "type":  "B",
                                        "desc":  "Kit Essencial Mirra Fem",
                                        "cod":  "272884"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kit CB Homem Cor.agio Elixir",
+                                       "cod":  "283585"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit CB Homem Essence",
+                                       "cod":  "272882"
                                    }
                                ]
                  }
