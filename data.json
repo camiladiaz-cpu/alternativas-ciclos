@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-18T20:11:07Z",
+    "updatedAt":  "2026-11-18T20:19:40Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -722,6 +722,22 @@
                                        "type":  "B",
                                        "desc":  "Promo Imbatible Musk Metropolitano",
                                        "cod":  "275863"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "KRISKA CJ DRAMA NAVIDAD ARG 2026",
+                                       "cod":  "283681"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "KIT KRISKA DRAMA AR C17 (PLAN B)",
+                                       "cod":  "272883"
                                    }
                                ]
                  }
