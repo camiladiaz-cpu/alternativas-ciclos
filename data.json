@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-18T13:14:29Z",
+    "updatedAt":  "2026-11-18T14:17:03Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -706,6 +706,22 @@
                                        "type":  "B",
                                        "desc":  "Kit CB Homem Essence",
                                        "cod":  "272882"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202616",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Promo Insuperable Kit x2 Musk Air iguales o dif",
+                                       "cod":  "283004"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Promo Imbatible Musk Metropolitano",
+                                       "cod":  "275863"
                                    }
                                ]
                  }
