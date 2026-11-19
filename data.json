@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-19T18:37:52Z",
+    "updatedAt":  "2026-11-19T18:55:25Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -839,6 +839,22 @@
                                        "type":  "B",
                                        "desc":  "Kit Essencial Exclusivo Masc Eau de parfum",
                                        "cod":  "272913"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Ekos Frescor Castaña 150ml",
+                                       "cod":  "73572"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Ekos Frescor Cacao 150ml",
+                                       "cod":  "162209"
                                    }
                                ]
                  }
