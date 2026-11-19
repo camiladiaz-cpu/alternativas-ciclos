@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-19T13:20:27Z",
+    "updatedAt":  "2026-11-19T15:44:36Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -832,13 +832,13 @@
                      "plans":  [
                                    {
                                        "type":  "A",
-                                       "desc":  "Promo Oportunidad Cabello",
-                                       "cod":  "282859"
+                                       "desc":  "Promo Oportunidad Cabellos",
+                                       "cod":  "285859"
                                    },
                                    {
                                        "type":  "B",
-                                       "desc":  "Promo Oportunidad Cabello",
-                                       "cod":  "272909"
+                                       "desc":  "Promo Oportunidad Cabellos (Plan B)",
+                                       "cod":  "274197"
                                    }
                                ]
                  }
