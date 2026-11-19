@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-18T20:19:40Z",
+    "updatedAt":  "2026-11-19T03:05:37Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -738,6 +738,91 @@
                                        "type":  "B",
                                        "desc":  "KIT KRISKA DRAMA AR C17 (PLAN B)",
                                        "cod":  "272883"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kit tododia granada y almendras glas",
+                                       "cod":  "282847"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit tododia frambuesa",
+                                       "cod":  "281678"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Jabones regalables",
+                                       "cod":  "282840"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Jabones tododia frambuesa",
+                                       "cod":  "2831"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Tododia Granada y almendras glaseadas",
+                                       "cod":  "282835"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Tododia frambuesa",
+                                       "cod":  "270306"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Tododia Cabellos Mangorosa Completo",
+                                       "cod":  "282854"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Tododia Cabellos Frambuesa Completo",
+                                       "cod":  "270310"
+                                   },
+                                   {
+                                       "type":  "C",
+                                       "desc":  "Tododia Cabellos Frambuesa Basico",
+                                       "cod":  "270289"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Navidad 2026 - Naturé natal + BC",
+                                       "cod":  "282849"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Naturé",
+                                       "cod":  "281694"
                                    }
                                ]
                  }
