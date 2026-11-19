@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-19T18:55:25Z",
+    "updatedAt":  "2026-11-19T20:20:30Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -855,6 +855,22 @@
                                        "type":  "B",
                                        "desc":  "Ekos Frescor Cacao 150ml",
                                        "cod":  "162209"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Homem Cor.agio Elixir",
+                                       "cod":  "214423"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Homem Essence",
+                                       "cod":  "59848"
                                    }
                                ]
                  }
