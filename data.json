@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-19T17:57:18Z",
+    "updatedAt":  "2026-11-19T18:31:39Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -823,6 +823,22 @@
                                        "type":  "B",
                                        "desc":  "Promo Oportunidad Cabellos (Plan B)",
                                        "cod":  "274197"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Navidad 2026 - Essencial Exclusivo masc",
+                                       "cod":  "282843"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Essencial Exclusivo Masc Eau de parfum",
+                                       "cod":  "272913"
                                    }
                                ]
                  }
