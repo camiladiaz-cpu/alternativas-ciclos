@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-20T13:25:41Z",
+    "updatedAt":  "2026-11-20T15:14:26Z",
     "site":  [
                  {
                      "ciclo":  "202616",
@@ -871,6 +871,22 @@
                                        "type":  "B",
                                        "desc":  "Homem Essence",
                                        "cod":  "59848"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Una Elegance EDP 75ml",
+                                       "cod":  "282844"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Luna Radiante EDT 75ml",
+                                       "cod":  "272915"
                                    }
                                ]
                  }
