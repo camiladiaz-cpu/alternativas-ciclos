@@ -725,7 +725,7 @@
             currentFilteredItems = db.site.filter(i => {
                 if (i.ciclo) {
                     const itemCicloDigits = String(i.ciclo).replace(/\D/g, '');
-                    // Busca que termine en el ciclo (lee el "202616")
+                    // Busca que termine en el ciclo (lee el "202617")
                     if (!itemCicloDigits.endsWith(selectedCicloDigits)) return false;
                 }
                 const m = i.marca || i.Marca || i.MARCA || '';
