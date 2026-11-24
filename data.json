@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-24T15:29:38Z",
+    "updatedAt":  "2026-11-24T19:36:11Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -259,6 +259,38 @@
                                        "type":  "B",
                                        "desc":  "Chronos D Protector Solar FPS50 50ml",
                                        "cod":  "134189"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "protector solar bifasico",
+                                       "cod":  "177404"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "NATURA SOLAR SOLAR BIFASICO FPS 30 200ML",
+                                       "cod":  "178865"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "EKOS PULPA PIES CASTANHA 75G",
+                                       "cod":  "69817"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "EKOS HID MAOS MARACUJA 75G ARG",
+                                       "cod":  "80967"
                                    }
                                ]
                  }
