@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-24T19:47:27Z",
+    "updatedAt":  "2026-11-24T20:12:56Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -291,6 +291,54 @@
                                        "type":  "B",
                                        "desc":  "EKOS HID MAOS MARACUJA 75G ARG",
                                        "cod":  "80967"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Navidad 2026 - Ekos Cacao + BM",
+                                       "cod":  "283236"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Ekos Cacao (H.Manos + JB + Labial)",
+                                       "cod":  "268797"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "KIT CF CHRONOS ESPUMA CONTORNO AR",
+                                       "cod":  "283549"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Chronos (Espuma + Serum)",
+                                       "cod":  "268780"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "PROMO OPORTUNIDAD 4 AR",
+                                       "cod":  "283567"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Promo Oportunidad 4B",
+                                       "cod":  "268828"
                                    }
                                ]
                  }
