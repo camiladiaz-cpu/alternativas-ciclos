@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-24T14:55:56Z",
+    "updatedAt":  "2026-11-24T14:58:23Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -259,22 +259,6 @@
                                        "type":  "B",
                                        "desc":  "Chronos D Protector Solar FPS50 50ml",
                                        "cod":  "134189"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202618",
-                     "marca":  "Natura",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "kaiak clasico",
-                                       "cod":  "123333"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "kaiak urbe",
-                                       "cod":  "1244444"
                                    }
                                ]
                  }
