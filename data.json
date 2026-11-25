@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-25T13:00:32Z",
+    "updatedAt":  "2026-11-25T19:54:34Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -339,6 +339,54 @@
                                        "type":  "B",
                                        "desc":  "Promo Oportunidad 4B",
                                        "cod":  "268828"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "KIT CF X2 AT NUTRICION SERUM AR",
+                                       "cod":  "285892"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit CF Advance Techniques",
+                                       "cod":  "275889"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Attraction Para Ella Edp (Reform)",
+                                       "cod":  "158971"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "ATTRACTION AWAKEN EDP PARA ELLA 50ML",
+                                       "cod":  "207525"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "PROMO OP 2 60PT AR",
+                                       "cod":  "285896"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Promo Oportunidad Avon 2B",
+                                       "cod":  "275873"
                                    }
                                ]
                  }
