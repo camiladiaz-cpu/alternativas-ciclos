@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-26T15:53:02Z",
+    "updatedAt":  "2026-11-26T16:01:29Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -429,6 +429,22 @@
                                        "type":  "C",
                                        "desc":  "COPAS DE VINO SET X4 ADULTS",
                                        "cod":  "208978"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Natura",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kit Lumina Antiseñales",
+                                       "cod":  "283587"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit Lumina Anticaída y Crecimiento",
+                                       "cod":  "272893"
                                    }
                                ]
                  }
