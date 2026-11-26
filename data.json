@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-26T17:54:09Z",
+    "updatedAt":  "2026-11-26T20:47:08Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -445,22 +445,6 @@
                                        "type":  "B",
                                        "desc":  "Kit Lumina Anticaída y Crecimiento",
                                        "cod":  "272893"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202618",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "MEGACOMBO KIT CB X6 COCA C18AR",
-                                       "cod":  "296708"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "Promo Imbatible C\u0026E",
-                                       "cod":  "275818"
                                    }
                                ]
                  }
