@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-26T20:47:08Z",
+    "updatedAt":  "2026-11-26T20:54:51Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -445,6 +445,38 @@
                                        "type":  "B",
                                        "desc":  "Kit Lumina Anticaída y Crecimiento",
                                        "cod":  "272893"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "MEGACOMBO KIT CB X6 COCA C18AR",
+                                       "cod":  "296708"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Promo Imbatible C\u0026E",
+                                       "cod":  "275818"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202618",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "KIT CB X2 ANEW SERUMS POWER PLATINUM AR",
+                                       "cod":  "289015"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit CB Anew Sérum Power x2",
+                                       "cod":  "275879"
                                    }
                                ]
                  }
