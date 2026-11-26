@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-26T15:07:35Z",
+    "updatedAt":  "2026-11-26T15:23:06Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -387,48 +387,6 @@
                                        "type":  "B",
                                        "desc":  "Promo Oportunidad Avon 2B",
                                        "cod":  "275873"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202618",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "VASO DE VIDRIO COCA COLA MODERN",
-                                       "cod":  "280755"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "VASO ALTO CON PICO CHILDREN DEPORTES",
-                                       "cod":  "208940"
-                                   },
-                                   {
-                                       "type":  "C",
-                                       "desc":  "MATE Y VASO TERMICO 2 EN 1",
-                                       "cod":  "282618"
-                                   }
-                               ]
-                 },
-                 {
-                     "ciclo":  "202618",
-                     "marca":  "Avon",
-                     "plans":  [
-                                   {
-                                       "type":  "A",
-                                       "desc":  "VASO DE VIDRIO COCA COLA VINTAGE",
-                                       "cod":  "280754"
-                                   },
-                                   {
-                                       "type":  "B",
-                                       "desc":  "COPA CHAMPAGNE VERSALLES",
-                                       "cod":  "208850"
-                                   },
-                                   {
-                                       "type":  "C",
-                                       "desc":  "COPAS DE VINO SET X4 ADULTS",
-                                       "cod":  "208978"
                                    }
                                ]
                  }
