@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-26T20:54:51Z",
+    "updatedAt":  "2026-11-26T20:55:30Z",
     "site":  [
                  {
                      "ciclo":  "202617",
@@ -477,6 +477,22 @@
                                        "type":  "B",
                                        "desc":  "Kit CB Anew Sérum Power x2",
                                        "cod":  "275879"
+                                   }
+                               ]
+                 },
+                 {
+                     "ciclo":  "202617",
+                     "marca":  "Avon",
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "ESTUCHE X2 ATT FOR HER C17 2026",
+                                       "cod":  "284347"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Estuche TTA EVERLASTING PARA ELLA EDP",
+                                       "cod":  "274214"
                                    }
                                ]
                  }
